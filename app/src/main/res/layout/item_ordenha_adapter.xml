@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="20dp"
+        android:layout_marginLeft="@dimen/fab_margin"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvIdentificador"
+        android:text="1"/>
+
+    <TextView
+        android:layout_width="120dp"
+        android:layout_marginLeft="@dimen/fab_margin"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvDesc"
+        android:text="DESCRICAO"/>
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_marginLeft="@dimen/fab_margin"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvQtLitros"
+        android:text="200.00"/>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_marginLeft="@dimen/fab_margin"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvDtOrdenha"
+        android:text="05/06/2019"/>
+
+</LinearLayout>

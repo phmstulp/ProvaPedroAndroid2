@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProvaPedroAndroid2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbIdentificador">Identificador</string>
+    <string name="lbQtLitros">Quantidade de Litros</string>
+    <string name="lbDtOrdenha">Data Ordenha</string>
+    <string name="lbHrOrdenha">Hora Ordenha</string>
+    <string name="lbDescricao">Descrição</string>
+    <string name="lbIdade">Idade</string>
+    <string name="lbDtParto">Data Último Parto</string>
+    <string name="lbSalvar">Salvar</string>
+    <string name="lbCancelar">Cancelar</string>
+    <string name="lbAlterar">Alterar</string>
+    <string name="lbRelatorio">Relatório de Ordenha</string>
+    <string name="title_activity_relatorio">RelatorioActivity</string>
+    <string name="title_activity_matriz">MatrizActivity</string>
+</resources>
